@@ -83,3 +83,11 @@ n = list(zip(*x)) #* unpacks them into pairs, look at the print above
 #by getting elem by elem from each tuple and storing them as pairs
 #it creates this:
 print(n)
+
+n = zip(*x)
+print(*n) #(1, 'a') (2, 'b') (3, 'c')
+print(*n) #empty
+#zip creates lazy elements, which means they are created when needed, when you iterate thorugh them
+#not when they are created, after you iterate through them, they are exhausted
+#so you can use them only once, that's what happend above
+#this is same happens to map, filter and zip
