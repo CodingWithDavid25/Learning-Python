@@ -1,0 +1,22 @@
+{
+  "title": "CONTRACT AND BILL OF SALE FOR AUTOMOBILE",
+
+  "intro": [
+    "(\"Seller\") agrees to sell to ____________________ (\"Buyer\") the following automobile:",
+    "Vehicle: [specify make, model and year of car], Vehicle Identification Number (VIN): ____________ (the \"Vehicle\")."
+  ],
+
+  "clauses": [
+    "The date of the sale of the Vehicle will be _____________, 20__.",
+    "The total purchase price of the Vehicle will be ____________ Dollars ($__________).",
+    "In exchange for Vehicle, on the day of the sale, Buyer will pay Seller the total purchase price by cashier’s check, money order, or cash.",
+    "Upon receipt of payment, Seller agrees to provide Buyer with the Certificate of Title and the current registration for the Vehicle.",
+    "The Vehicle is sold \"as is\". Seller makes no express or implied warranties as to the condition or performance of the Vehicle.",
+    "The Buyer agrees to register the Vehicle in his/her name with the Department of Motor Vehicles within one week of the date of sale."
+  ],
+
+  "other_points": [
+    "The Seller should file a Notice of Transfer and Release of Liability with the DMV within 5 days of the sale.",
+    "The Buyer must go to the DMV to complete the transfer of ownership within 10 days of the sale."
+  ]
+}
